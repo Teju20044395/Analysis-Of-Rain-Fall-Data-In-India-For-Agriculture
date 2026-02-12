@@ -347,15 +347,6 @@ python -c "import pandas; print('✅ Dependencies installed successfully')"
 
 ---
 
-## Contact & Support
-
-- **Project Data**: Rainfall dataset (IMD-based format)
-- **Created**: February 2026
-- **Purpose**: Educational & Agricultural Decision Support
-- **License**: Open Source (For educational use)
-
----
-
 ## Key Takeaway
 
 > **"Data-driven agriculture reduces uncertainty, improves yields, and ensures sustainable water resource management."**
